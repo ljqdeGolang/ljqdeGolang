@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a new peogrammer who just learned to program this year, with hoping communicate with you.
-- 🔭 I’m currently working on the information Department of a manufacturing company 
-- 🌱 I’m currently learning Go 
+I am a new peogrammer who just learned to program in 2020, with hoping communicate with you.
+- 🔭 I’m currently studying mechanical engineering in college as a postgraduate.
+- 🌱 I’m currently learning Go;Matlab;Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
