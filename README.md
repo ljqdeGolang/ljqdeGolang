@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am a new peogrammer who just learned to program in 2020, with hoping communicate with you.
-- 🔭 I’m currently studying mechanical engineering in college as a postgraduate.
-- 🌱 I’m currently learning Go;Matlab;Python
+I am a new peogrammer who just learned to program in 2021, with hoping communicate with you.
+- 🔭 I’m currently studying mechanical engineering in a college as a postgraduate.
+- 🌱 I’m currently learning Go;Python;JavaScript;HTML;CSS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.cnblogs.com/mortal-walker/
 - 😄 Pronouns: life-long learning and Enlightenment.
 - ⚡ Fun fact: I am passionate about fitness, with a fan of basketball and soccer.
 
